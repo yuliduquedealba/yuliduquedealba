@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **yduquedealba@gmail.com**
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yuliduquedealba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuliduquedealba" height="30" width="40" /></a>
