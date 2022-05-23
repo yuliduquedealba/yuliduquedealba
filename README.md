@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yduquedealba@gmail.com**
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif">
+<img align="left" alt="Coding" width="200" src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
