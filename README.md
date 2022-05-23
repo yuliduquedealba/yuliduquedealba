@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **REACT**
 
+- 🐶 I'm a doggy mom
+
 - 📫 How to reach me **yduquedealba@gmail.com**
-
-![image](https://giphy.com/embed/mCRJDo24UvJMA)
-
-<!-- <iframe src="https://giphy.com/embed/mCRJDo24UvJMA" width="480" height="348" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-shiba-inu-typing-mCRJDo24UvJMA">via GIPHY</a></p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
