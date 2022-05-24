@@ -23,8 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuliduquedealba&show_icons=true&locale=en" alt="yuliduquedealba" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuliduquedealba&" alt="yuliduquedealba" /></p>
-
 <!--
 **yuliduquedealba/yuliduquedealba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
