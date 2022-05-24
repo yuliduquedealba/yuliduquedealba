@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Yuli</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h1 align="center">Hi 👋, My name is Yulimar, but everyone calls me Yuli</h1>
+<h3 align="center">A frontend passionate about technology, and about creating new things or experiences that inspire other people</h3>
 
 - 🔭 I’m currently working on [Lab Notes](https://github.com/yuliduquedealba/notes)
 
 - 🌱 I’m currently learning **REACT**
 
 - 🐶 I'm a doggy mom
+
+- 📱 I like to create content for my social networks
 
 - 📫 How to reach me **yduquedealba@gmail.com**
 
