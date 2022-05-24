@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, My name is Yulimar, but everyone calls me Yuli</h1>
-<h3 align="center">A frontend passionate about technology, and about creating new things or experiences that inspire other people</h3>
+<h2 align="center">Hi 👋, My name is Yulimar, but everyone calls me Yuli</h2>
+<h4 align="center">A frontend passionate about technology, and about creating new things or experiences that inspire other people</h4>
 
 - 🔭 I’m currently working on [Lab Notes](https://github.com/yuliduquedealba/notes)
 
