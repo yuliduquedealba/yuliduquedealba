@@ -5,12 +5,12 @@
 
 - 🌱 I’m currently learning **REACT**
 
-- 🐶 I'm a doggy mom
+- 📱 I like to create content for my social networks
 
 - 📫 How to reach me **yduquedealba@gmail.com**
 
-- 📱 I like to create content for my social networks
-
+- 🐶 I'm a doggy mom
+- 
 - ⚡ Fun fact **I have a fondness for plants 🪴**
 
 
