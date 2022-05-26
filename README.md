@@ -10,7 +10,7 @@
 - 📫 How to reach me **yduquedealba@gmail.com**
 
 - 🐶 I'm a doggy mom
-- 
+
 - ⚡ Fun fact **I have a fondness for plants 🪴**
 
 
