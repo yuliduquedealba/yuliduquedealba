@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I have a fondness for plants 🪴**
 
-- 📫 You can contact me at [my email](yduquedealba@gmail.com)
+- 📫 How to reach me **yduquedealba@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
