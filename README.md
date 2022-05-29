@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **REACT**.
 
-- 📱 I like to create content for my social networks.
-
 - 💬 You can ask me about web layout, JavaScript, Figma or digital marketing.
 
 - 🐶 I'm a doggy mom.
