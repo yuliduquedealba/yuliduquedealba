@@ -3,15 +3,17 @@
 
 - 🔭 I’m currently working on [Lab Notes](https://github.com/yuliduquedealba/notes)
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **REACT**.
 
-- 📱 I like to create content for my social networks
+- 📱 I like to create content for my social networks.
 
-- 🐶 I'm a doggy mom
+- 💬 You can ask me about web layout, JavaScript, Figma or digital marketing.
 
-- ⚡ Fun fact **I have a fondness for plants 🪴**
+- 🐶 I'm a doggy mom.
 
-- 📫 How to reach me **yduquedealba@gmail.com**
+- ⚡ Fun fact **I have a fondness for plants 🪴**.
+
+- 📫 How to reach me **yduquedealba@gmail.com**.
 
 
 <h3 align="left">Connect with me:</h3>
