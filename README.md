@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, My name is Yulimar, but everyone calls me Yuli</h2>
 <h4 align="center">A frontend passionate about technology and creating new things or experiences that inspire other people.</h4>
 
-- 🔭 I’m currently working on [Yu-Note](https://github.com/yuliduquedealba/yu-note)
+- 🔭 I’m currently working on [Yu-Note](yunote-88484.web.app/)
 
 - 🌱 I’m currently learning **REACT**.
 
